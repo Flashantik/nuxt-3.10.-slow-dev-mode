@@ -1,11 +1,12 @@
 
-<template>
-  <div>
-    {{arr}}
-  </div>
-</template>
+    <template>
+      <div>
+        {{arr}}
+      </div>
+    </template>
 
-<script setup>
-  const arr = 'administratio utroque claro demitto templum dolore color armarium rem volaticus'
-</script>
+    <script setup>
+      const arr = 'necessitatibus clarus amor temperantia ceno aer aranea ullus socius culpa'
+      onMounted(()=> console.count())
+    </script>
   
